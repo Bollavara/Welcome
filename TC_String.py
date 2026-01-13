@@ -7,5 +7,36 @@ print(a[-5])
 print(a[-1])
 print(a)
 
+text="python"
+print(text[0:3])
+print(text[2:])
+print(text[:3])
+
+print(a+text)
+print("Hi" *3)
+
+print(text.upper())
+print(a.replace("python","java"))
+
+print(len(a))
+
+print("a" in "apple")
+print("a" not in "apple")
+
+s1="I am {0} and I am {1} old".format("Harika",22)
+print(s1)
+
+s2=a.split()
+print(s2)
+
+
+
+
+
+
+
+
+
+
 
 
