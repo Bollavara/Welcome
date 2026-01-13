@@ -10,4 +10,3 @@ print(c)
 #Dictionary Comprehension
 d={x:x**3 for x in data}
 print(d)
-
